@@ -1,5 +1,4 @@
 # 人工智能第三次作业
-## 运行结果
 像素矩阵类：辅助类，各种格式的文件最终都被转化为像素矩阵
 ```
 public class Matrix {
@@ -50,4 +49,5 @@ Windows操作系统实现类：具体实现类
 class WindowsImp implements ImageImp {
 }
 ```
+## 运行结果
 ![avatar](img/01.png)
